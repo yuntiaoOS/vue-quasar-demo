@@ -2,6 +2,8 @@
 
 基于https://django-vue-admin.com/ 的业务逻辑，使用https://gitee.com/incimo/vue-quasar-manage 布局layout
 
+动态路由设计
+
 A Quasar Framework app
 
 ## Install the dependencies
