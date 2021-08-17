@@ -1,6 +1,6 @@
 # Quasar App (vue-quasar-skin-ui)
 
-基于https://django-vue-admin.com/ 的业务逻辑，使用https://gitee.com/incimo/vue-quasar-manage布局layout
+基于https://django-vue-admin.com/ 的业务逻辑，使用https://gitee.com/incimo/vue-quasar-manage 布局layout
 
 A Quasar Framework app
 
