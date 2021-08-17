@@ -1,0 +1,72 @@
+[{
+	"path": "/",
+	"name": "Home",
+	"meta": {
+		"roles": [],
+		"title": "主页",
+		"icon": "home",
+		"keepAlive": true
+	},
+	"component": "/home/Home.vue"
+}, {
+	"path": "/system",
+	"name": "system",
+	"meta": {
+		"roles": [],
+		"title": "系统管理",
+		"icon": "design_services",
+		"keepAlive": true
+	},
+	"component": "Layout",
+	"children": [{
+		"path": "dict",
+		"name": "Dict",
+		"meta": {
+			"roles": [],
+			"title": "字典管理",
+			"icon": "all_inclusive",
+			"keepAlive": true
+		},
+		"component": "/system/dict.vue"
+	},{
+		"path": "config",
+		"name": "Config",
+		"meta": {
+			"roles": [],
+			"title": "参数管理",
+			"icon": "all_inclusive",
+			"keepAlive": true
+		},
+		"component": "/system/Config.vue"
+	},{
+		"path": "config",
+		"name": "Config",
+		"meta": {
+			"roles": [],
+			"title": "文件管理",
+			"icon": "all_inclusive",
+			"keepAlive": true
+		},
+		"component": "/system/Config.vue"
+	},{
+		"path": "config",
+		"name": "Config",
+		"meta": {
+			"roles": [],
+			"title": "通知公告",
+			"icon": "all_inclusive",
+			"keepAlive": true
+		},
+		"component": "/system/Config.vue"
+	}, {
+		"path": "system-administrator",
+		"name": "SystemAdministrator",
+		"meta": {
+			"roles": [],
+			"title": "日志管理",
+			"icon": "settings",
+			"keepAlive": true
+		},
+		"component": "/system/SystemAdministrator.vue"
+	}]
+}]
