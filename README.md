@@ -23,4 +23,4 @@ quasar build
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
 
-![image](GIF 2021-8-17 16-41-54.gif)
+![image](https://github.com/yuntiaoOS/vue-quasar-demo/blob/main/GIF%202021-8-17%2016-41-54.gif)
